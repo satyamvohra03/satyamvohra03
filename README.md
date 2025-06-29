@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE (Data Science & Analytics) @ IIIT  
 💼 Analytics Intern @ Delhivery (Control Tower)  
-🧠 670+ points in SQL on HackerRank  
+🧠Gold Batch(670+ points) in SQL on HackerRank
 📊 Power BI • Python • pandas • scikit-learn  
 🛠️ Building projects in logistics, BI, and ML
 
