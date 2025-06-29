@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Satyam!
 
-<!--
-**satyamvohra03/satyamvohra03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Science & Analytics) @ IIIT  
+💼 Analytics Intern @ Delhivery (Control Tower)  
+🧠 600+ points in SQL on HackerRank  
+📊 Power BI • Python • pandas • scikit-learn  
+🛠️ Building projects in logistics, BI, and ML
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
+- 📦 Shipment Delay Predictor (ML + pandas)
+- 📊 IPL Dashboard in Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me:
+- Email: satyamvohra03@gmail.com
+- LinkedIn: https://www.linkedin.com/in/satyam-vohra-25910b372/
